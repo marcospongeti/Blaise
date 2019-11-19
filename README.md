@@ -1,0 +1,2 @@
+# Blaise
+Software de Estatística 
